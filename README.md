@@ -6,7 +6,7 @@
 
 Если возникли вопросы или предложения - обязательно пишите:
 - mail: writetonomard@gmail.com
-- tg: @NomaRomaNoma
+- tg: [@NomaRomaNoma](https://t.me/NomaRomaNoma)
 
 Заглядывайте на YouTube-канал, там сейчас есть немножко записей про Netbox:
 - https://www.youtube.com/@NomaRoma-Networker
