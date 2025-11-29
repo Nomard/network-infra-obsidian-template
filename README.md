@@ -5,12 +5,11 @@
 Я время от времени буду вносить правки и что-то добавлять потихоньку.
 
 Если возникли вопросы или предложения - обязательно пишите:
-mail: writetonomard@gmail.com
-tg: @NomaRomaNoma
+- mail: writetonomard@gmail.com
+- tg: @NomaRomaNoma
 
-Заглядывайте на YouTube-канал,
-там сейчас есть немножко записей про Netbox:
-https://www.youtube.com/@NomaRoma-Networker
+Заглядывайте на YouTube-канал, там сейчас есть немножко записей про Netbox:
+- https://www.youtube.com/@NomaRoma-Networker
 
 
 # Как воспользоваться шаблоном:
