@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "73d7b1e1124df6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6339f9e03653fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b07013f9fe4ca00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Log/2025/11/2025-11-21, пятница.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-21, пятница"
+            }
+          },
+          {
+            "id": "5626cf486a6a58f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.6"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf539e76855cd46f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fff683c9fdb099b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef26f351eda2b8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4766413fe1ead49d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#NetMap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e0470a1ee0cfbdcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "f648f4918f30387b",
+    "type": "split",
+    "children": [
+      {
+        "id": "788745a3e2cba7ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8784938e30f89913",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stack24/Daily Logs and Projects/Projects Finished/Usergate E1000, поломка 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Usergate E1000, поломка 2024"
+            }
+          },
+          {
+            "id": "e8dbaba58fd63da3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stack24/Daily Logs and Projects/Projects Finished/Usergate E1000, поломка 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Usergate E1000, поломка 2024"
+            }
+          },
+          {
+            "id": "d6b85cf8be07bd49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "09309916a903ecde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/События моей жизни. Хронология..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура События моей жизни. Хронология."
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "5626cf486a6a58f6",
+  "lastOpenFiles": [
+    "Network Maps/Sample L3.drawio",
+    "Network Maps/Sample L2.drawio",
+    "Network Maps/Sample L1.drawio",
+    "Security/KeepassSample Common.kdbx",
+    "Security/KeepassSample Personal.kdbx",
+    "Projects/Current/Нарисовать схемы сети/Нарисовать схемы сети.md",
+    "Daily Log/2025/11/2025-11-21, пятница.md",
+    "Daily Log/2025/11/2025-11-20, четверг.md",
+    "Daily Log/2025/10/2025-10-31, пятница.md",
+    "Templates/Template - Daily Log.md",
+    "Templates/Template - DateTime Current.md",
+    "Templates/Template - Incident.md",
+    "Instructions and Cheatsheets/Структура компании.md",
+    "2025-11-21, пятница.md",
+    "Projects/Backlog/Разобрать.md",
+    "Daily Log/2025/11/2025-11-20, четверг, Подготовка рабочего места.md",
+    "Templates/Template - Contact.md",
+    "Projects/Backlog/Поправить LLDP на коммутах/Поправить LLDP на коммутах.md",
+    "Projects/Current/Нарисовать схемы сети",
+    "Projects/Backlog/Поправить LLDP на коммутах",
+    "Instructions and Cheatsheets/Ключ от склада.md",
+    "Documents/Акты/Акт 12345, Болты, ООО Рога-И-Копыта.docx.md",
+    "Documents/Шаблон, Заявление на отпуск.docx.md",
+    "Documents/Шаблон, Заявление на отгул.docx.md",
+    "Documents/Акты/Акт приёма-передачи, мой ПК.scan.md",
+    "Templates/Template - Tags.md",
+    "Documents/Акты",
+    "App Files/WinMTR.md",
+    "App Files/WinBox.md",
+    "App Files/MobaXterm/MobaXterm Sessions.mxtsessions",
+    "App Files/MobaXterm/Highlight by Noma.msyn",
+    "Apps and Distr/MobaXTerm/NomWords.msyn",
+    "2025-11-20, четверг.md",
+    "2025-11-20, четверг, vlan 2222.md",
+    "Templates/Template - Activity.md",
+    "Без названия.canvas",
+    "2025-11-19, среда.md",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/v1 - Шаблон для спикеров/Элементы/Line3.svg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/v1 - Шаблон для спикеров/Элементы/Line2.svg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/v1 - Шаблон для спикеров/Элементы/GetNet.svg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/v1 - Шаблон для спикеров/Элементы/fon_04.png",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/v1 - Шаблон для спикеров/Элементы/bg_body_001.jpg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/Шаблон для спикеров-v1/Элементы/Line3.svg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/Шаблон для спикеров-v1/Элементы/Line2.svg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/Шаблон для спикеров-v1/Элементы/GetNet.svg",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/Шаблон для спикеров-v1/Элементы/fon_04.png",
+    "_Personal/Projects/Networker/Конференция по сетям 2025/Шаблон для спикеров-v1/Элементы/bg_body_001.jpg"
+  ]
+}
